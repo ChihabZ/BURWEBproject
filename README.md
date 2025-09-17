@@ -1,4 +1,4 @@
-mon projet de BUREAUTIQUE/WEB, un site web arcade qui contiens 3 jeux 
+mon projet de BUREAUTIQUE/WEB, un site web arcade qui contient 3 jeux 
    - space invaders
    - ping pong
    - color echo
